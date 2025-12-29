@@ -1,11 +1,11 @@
-🏥 Prontuário Médico Web
-📌 Sobre o Projeto
+Prontuário Médico Web
+ Sobre o Projeto
 
 Este projeto consiste em um Sistema de Prontuário Médico Web, desenvolvido para auxiliar médicos, clínicas e secretarias no gerenciamento de pacientes, consultas, prontuários, receitas e agenda médica, de forma centralizada, segura e eficiente.
 
 A aplicação tem como objetivo digitalizar e organizar informações médicas, reduzindo o uso de papel, melhorando o controle de atendimentos e facilitando o acompanhamento do histórico clínico dos pacientes.
 
-🎯 Objetivos
+Objetivos
 
 Centralizar dados de pacientes e atendimentos médicos
 
@@ -17,7 +17,7 @@ Garantir histórico médico completo e organizado
 
 Aumentar a produtividade e reduzir falhas humanas
 
-🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 🔹 Front-end
 
 HTML5 – Estrutura das páginas
@@ -34,4 +34,4 @@ Django – Framework principal do sistema
 
 Django REST Framework (opcional) – Para criação de APIs
 
-Banco de Dados – SQLite (desenvolvimento) / PostgreSQL (produção)
+Banco de Dados – PostgreSQL (produção)
