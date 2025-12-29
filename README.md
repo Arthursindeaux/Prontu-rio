@@ -1,37 +1,56 @@
-Prontuário Médico Web
- Sobre o Projeto
+🏥 Prontuário Médico
+📖 O que é este projeto?
 
-Este projeto consiste em um Sistema de Prontuário Médico Web, desenvolvido para auxiliar médicos, clínicas e secretarias no gerenciamento de pacientes, consultas, prontuários, receitas e agenda médica, de forma centralizada, segura e eficiente.
+Este projeto é um Prontuário Médico Web, desenvolvido para auxiliar médicos e clínicas no gerenciamento de pacientes, consultas e informações médicas, de forma centralizada, digital e organizada.
 
-A aplicação tem como objetivo digitalizar e organizar informações médicas, reduzindo o uso de papel, melhorando o controle de atendimentos e facilitando o acompanhamento do histórico clínico dos pacientes.
+A aplicação tem como objetivo substituir processos manuais, facilitando o acesso ao histórico clínico dos pacientes e melhorando a eficiência no atendimento médico.
 
-Objetivos
+🧑‍⚕️ Finalidade
 
-Centralizar dados de pacientes e atendimentos médicos
+Organizar dados médicos de pacientes
 
-Facilitar o agendamento e controle de consultas
+Centralizar informações clínicas em um único sistema
 
-Automatizar processos como confirmação de consultas
+Facilitar o controle de consultas e prontuários
 
-Garantir histórico médico completo e organizado
+Apoiar o dia a dia de médicos e secretárias
 
-Aumentar a produtividade e reduzir falhas humanas
+🛠️ Tecnologias Utilizadas
+Front-end
 
-Tecnologias Utilizadas
-🔹 Front-end
+HTML
 
-HTML5 – Estrutura das páginas
+CSS
 
-CSS3 – Estilização e layout
+JavaScript
 
-JavaScript – Interatividade e comunicação com o back-end
-
-🔹 Back-end
+Back-end
 
 Python
 
-Django – Framework principal do sistema
+Django
 
-Django REST Framework (opcional) – Para criação de APIs
+⚙️ Funcionalidades
 
-Banco de Dados – PostgreSQL (produção)
+Todas as funcionalidades da aplicação estão documentadas detalhadamente no documento abaixo:
+
+📄 Documentação de Funcionalidades do Prontuário Médico
+👉 https://docs.google.com/document/d/1SF1U4m3K-staia9yr9XtHj449TbteS8yPry3e6XJRsQ/edit?tab=t.0#heading=h.m3g3sdv6n1dr
+
+Este documento descreve:
+
+Funcionalidades do sistema
+
+Regras e fluxos principais
+
+Comportamentos esperados da aplicação
+
+Tecnologias 
+
+Este projeto utiliza:
+
+Front-end desenvolvido em HTML, CSS e JavaScript
+
+Back-end desenvolvido em Django
+
+A documentação externa serve como referência principal para entendimento completo das funcionalidades do sistema.
