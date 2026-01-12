@@ -9,9 +9,9 @@
 ---
 
 ## 📋 Sobre o Projeto
-O **Prontuário Médico Web** é uma aplicação desenvolvida para auxiliar **médicos e clínicas** no gerenciamento de **pacientes, consultas e informações médicas**, de forma **centralizada, digital e organizada**.
+O Prontuário Médico Web é uma aplicação desenvolvida para auxiliar médicos e clínicas no gerenciamento de pacientes, consultas e informações médicas, de forma centralizada, digital e organizada.
 
-A aplicação tem como objetivo **substituir processos manuais**, facilitando o acesso ao **histórico clínico dos pacientes** e contribuindo para uma **maior eficiência no atendimento médico**.
+A aplicação tem como objetivo substituir processos manuais, facilitando o acesso ao histórico clínico dos pacientes e contribuindo para uma maior eficiência no atendimento médico.
 
 ---
 
@@ -25,7 +25,7 @@ A plataforma foi pensada para apoiar o dia a dia clínico, permitindo:
 
 ---
 
-## 🔗 Links Úteis
+## 🔗 Link das Funcionalidades
 <a href="https://docs.google.com/document/d/1SF1U4m3K-staia9yr9XtHj449TbteS8yPry3e6XJRsQ/edit?tab=t.0#heading=h.m3g3sdv6n1dr">
   <img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-blue?style=for-the-badge&logo=google-docs&logoColor=white" />
 </a>
